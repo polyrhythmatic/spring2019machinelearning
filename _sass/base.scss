@@ -1,0 +1,78 @@
+$freesans: 14px/16px "freesans", Arial, "Helvetica Neue", Helvetica, sans-serif;
+$freesansbold: bold 36px/46px "freesansbold", Arial, "Helvetica Neue", Helvetica, sans-serif;
+
+$tablet-width: 700px;//changed from 768
+$laptop-width: 1024px;
+$desktop-width: 1440px;
+$fourk-width: 1920px;
+
+@mixin tablet {
+  @media (min-width: #{$tablet-width}) and (max-width: #{$laptop-width - 1px}) {
+    @content;
+  }
+}
+
+@mixin laptop {
+  @media (min-width: #{$laptop-width}) and (max-width: #{$desktop-width - 1px}) {
+    @content;
+  }
+}
+
+@mixin desktop {
+  @media (min-width: #{$desktop-width}) and (max-width: #{$fourk-width - 1px}) {
+    @content;
+  }
+}
+
+@mixin fourk {
+  @media (min-width: #{$fourk-width}) {
+    @content;
+  }
+}
+
+@mixin greater_than_tablet {
+  @media (min-width: #{$tablet-width}) {
+    @content;
+  }
+}
+
+@mixin greater_than_laptop {
+  @media (min-width: #{$laptop-width}) {
+    @content;
+  }
+}
+
+body {
+  max-width: 1920px;
+  margin: 0 0;
+  font: $freesans;
+
+  @include fourk {
+    margin: 0 auto;
+  }
+}
+
+a {
+  border-bottom: 1px solid black;
+}
+
+*::selection {
+  background: blue;
+}
+
+.title-text {
+  font: $freesansbold;
+  text-align: right;
+  margin: 85px 0 0;
+  width: 100vw;
+
+  & li {
+    width: 280px;
+    margin: 0 auto;
+  }
+}
+
+//the code highlighter
+// .highlighter-rouge {
+//   margin: 40px 0;
+// }

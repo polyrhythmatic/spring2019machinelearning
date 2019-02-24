@@ -1,0 +1,24 @@
+<header>
+  <nav class="header-nav">
+    <div class="menu-wrapper" id="nav">
+      <ul class="title-text">
+        <li><a href="{{ 'syllabus' | absolute_url }}">SYLLABUS</a></li>
+        <li><a href="{{ 'assignments' | absolute_url }}">ASSIGNMENTS</a></li>
+        <li><a href="{{ 'resources' | absolute_url }}">RESOURCES</a></li>
+        <li><a href="{{ 'guides' | absolute_url }}">GUIDES</a></li>
+      </ul>
+      <div class="header-footer">
+        {% include footer.html %}
+      </div>
+    </div>
+    <button class="header-hamburger" id="hamburger"><img src="{{ 'assets/hamburger.svg' | absolute_url }}"></button>
+  </nav>
+  <script type="text/javascript">
+    var hamburger = document.getElementById("hamburger");
+    var nav = document.getElementById("nav");
+
+    hamburger.addEventListener("click", function(){
+      nav.classList.toggle("menu__open")
+    })
+  </script>
+</header>
