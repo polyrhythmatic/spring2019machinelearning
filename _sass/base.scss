@@ -130,8 +130,24 @@ a {
   width: 75vw;
   margin: -10px 0;
   padding: 20px 20px;
+
+  @include tablet {
+    padding: 40px 40px;
+  }
+
+  @include laptop {
+    padding: 40px 25px;
+  }
+
+  @include desktop {
+    margin: -25px 0;
+    padding: 60px 40px;
+  }
 }
 
+.overflow-hidden {
+  overflow: hidden;
+}
 //the code highlighter
 // .highlighter-rouge {
 //   margin: 40px 0;

@@ -1,3 +1,27 @@
-// .footer {
-//   margin: 0 0 15px 20px;
-// }
+.footer {
+  margin: 80px 0 15px 20px;
+
+  @include tablet {
+    margin: 80px 0 40px 40px;
+    font-size: 20px;
+    line-height: 22px;
+  }
+
+  @include laptop {
+    margin: 80px 25px 35px;
+    font-size: 26px;
+    line-height: 28px;
+  }
+
+  @include desktop {
+    margin: 80px 35px 50px;
+    font-size: 36px;
+    line-height: 38px;
+  }
+}
+
+.footer-home {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}

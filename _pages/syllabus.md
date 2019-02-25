@@ -26,21 +26,20 @@ This course will not cover, nor assumes knowledge of, the technical or mathemati
 # Tentative Course Schedule  
 
 
-2/18 - Intro to the class, what is machine learning, intro to p5  
-2/25 - deep learning, p5 in depth, up and running with ml5js, image classification  
-3/4 - Transfer learning / feature extraction / KNN classification  
-3/11 - Posenet  
-3/18 - Pix2pix, Style Transfer, introducing the midterm project  
-3/25 - (no class, spring break)  
-4/1 - Special topic / guest speaker  
-4/8 - (midterm presentation and crit)  
-4/15 - Sketch RNN  
-4/22 - LSTM  
-
-4/29 - TSNE with images, introducing the final project  
-5/6 - TSNE with audio  
-5/13 - Work session  
-5/20 - (final presentation and crit)  
+* 2/18 - Intro to the class, what is machine learning, intro to p5
+* 2/25 - deep learning, p5 in depth, up and running with ml5js, image classification
+* 3/4 - Transfer learning / feature extraction / KNN classification
+* 3/11 - Posenet
+* 3/18 - Pix2pix, Style Transfer, introducing the midterm project
+* 3/25 - (no class, spring break)
+* 4/1 - Special topic / guest speaker
+* 4/8 - (midterm presentation and crit)
+* 4/15 - Sketch RNN
+* 4/22 - LSTM 
+* 4/29 - TSNE with images, introducing the final project
+* 5/6 - TSNE with audio
+* 5/13 - Work session
+* 5/20 - (final presentation and crit)
 
 # Office Hours  
 
@@ -118,46 +117,46 @@ For purposes of the Academic Code of Conduct, Unfair Academic Advantage is the t
 The violation of specific course expectations set forth in a syllabus or otherwise provided to the student by the instructor whether verbal or written.
 
 
-Grading Policy
+## Grading Policy
 
-Attendance and participation - 20%
-Midterm project - 40%
-Final project - 40%
+* Attendance and participation - 20%
+* Midterm project - 40%
+* Final project - 40%
 
-Grades
+## Grades
 
-(A) Work of exceptional quality, which often goes beyond the stated goals of the course
-(A-) Work of very high quality
-(B+) Work of high quality that indicates higher than average abilities
-(B) Very good work that satisfies the goals of the course
-(B-) Good work
-(C+) Above-average work
-(C ) Average work that indicates an understanding of the course material; passable Satisfactory completion of a course is considered to be a grade of C or higher.
-(C-) Passing work but below good academic standing
-(D) Below-average work that indicates a student does not fully understand the assignments; Probation level though passing for credit
-(F) Failure, no credit
+* (A) Work of exceptional quality, which often goes beyond the stated goals of the course
+* (A-) Work of very high quality
+* (B+) Work of high quality that indicates higher than average abilities
+* (B) Very good work that satisfies the goals of the course
+* (B-) Good work
+* (C+) Above-average work
+* (C ) Average work that indicates an understanding of the course material; passable Satisfactory completion of a course is considered to be a grade of C or higher.
+* (C-) Passing work but below good academic standing
+* (D) Below-average work that indicates a student does not fully understand the assignments; Probation level though passing for credit
+* (F) Failure, no credit
 
-Grade of W
+Grade of W  
 The grade of W may be issued by RISD to a student who officially withdraws from a course within the applicable deadline. There is no academic penalty, but the grade will appear on the student transcript.
 
-Grade of Incomplete
+Grade of Incomplete  
 A grade of incomplete (“I”) is assigned to signify temporary deferment of a regular final letter grade. It is used sparingly in compelling situations when a student is not able to complete work in the course by the end of the semester due to extenuating circumstances beyond the ability of the student to predict and control. Assignment of an incomplete grade presumes both that the student will be able to complete the coursework in the timeframe established below and that the instructor will be able to review the completed work in that timeframe.
 
-Disability Statement
+## Disability Statement
 
 Rhode Island School of Design is committed to providing equal opportunity for all students. If you are a student with a disability that may require accommodations to complete the requirements of this class, I encourage you to discuss your learning needs with me during the first week of the term. Once an approval letter from the Office of Disability Support Services is submitted, accommodations will be provided as needed. For more information on how to receive accommodations, please contact Disability Support Services at (401)709-8460 or disabilitysupportservices@risd.edu.
 
-Diversity/Civility Statement
+## Diversity/Civility Statement
 
-The RISD community is dedicated to the advancement of knowledge and the development of  integrity. In order to thrive and excel, this community must preserve the freedom of thought and expression of all its members. A culture of respect that honors the rights, safety, dignity, and worthof every individual is essential to preserve such freedom. We affirm our respect for the rights and well- being of all members.
+The RISD community is dedicated to the advancement of knowledge and the development of  integrity. In order to thrive and excel, this community must preserve the freedom of thought and expression of all its members. A culture of respect that honors the rights, safety, dignity, and worthof every individual is essential to preserve such freedom. We affirm our respect for the rights and well- being of all members. 
 
-Documentation
+## Documentation
 
 The ID department requires that I collect images from all students that “best represents their work”. This has to be submitted by May 24, 2019. 
 
 The portfolio requirements are as follow:
-Quantity: minimum of five images, maximum of ten
-Sizes: Letter (8 1/2 x 11) AND/OR Tabloid (11 x 17)
-Resolution: No Higher than 300dpi, no lower than 150dpi
-File Naming convention: Year.Semester.Class Name.Last Name_First name.extension (e.g., 2019SP.Production Ceramics.Doe_Jane.jpg)
-File Types: PDF, JPG, MP4 ONLY. (Powerpoint files are unacceptable because they contain multiple images)
+* Quantity: minimum of five images, maximum of ten
+* Sizes: Letter (8 1/2 x 11) AND/OR Tabloid (11 x 17)
+* Resolution: No Higher than 300dpi, no lower than 150dpi
+* File Naming convention: Year.Semester.Class Name.Last Name_First name.extension (e.g., 2019SP.Production Ceramics.Doe_Jane.jpg)
+* File Types: PDF, JPG, MP4 ONLY. (Powerpoint files are unacceptable because they contain multiple images)

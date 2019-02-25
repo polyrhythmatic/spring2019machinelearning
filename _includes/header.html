@@ -21,6 +21,8 @@
     hamburger.addEventListener("click", function(){
       nav.classList.toggle("menu__open")
       hamburger.classList.toggle("hamburger__rotated");
+      window.scrollTo(0, 0);
+      document.body.classList.toggle("overflow-hidden");
     })
   </script>
 </header>
