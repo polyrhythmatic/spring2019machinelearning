@@ -4,7 +4,15 @@
 <body>
   {% include header.html %}
   <main>
-    {{ content }}
+    <div class="home-title title-text">
+      <ul>
+        <li>{{ page.title }}</li>
+      </ul>
+    </div>
+    <div class="content-wrapper markdown-body">
+      {{ content }}
+    </div>
+    <div class="syllabus-block block"></div>
   </main>
   <footer class="footer">
     {% include footer.html %}

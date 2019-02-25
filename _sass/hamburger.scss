@@ -1,0 +1,86 @@
+.hamburger {
+  width: 56px;
+  transition: all .4s ease-in-out;
+
+  @include tablet {
+    width: 64px;
+  }
+
+  @include laptop {
+    width: 86px;
+  }
+
+  @include desktop {
+    width: 120px;
+  }
+}
+
+.hamburger-bun {
+  height: 9px;
+  background-color: black;
+  margin-bottom: 9px;
+  transition: all .4s ease-in-out;
+
+  @include tablet {
+    height: 10px;
+  }
+
+  @include laptop {
+    height: 13px;
+    margin-bottom: 14px;
+  }
+
+  @include desktop {
+    height: 18px;
+    margin-bottom: 20px;
+  }
+}
+
+.hamburger__rotated {
+
+  & .hamburger {
+    transform: translate(0, 20px);
+
+    @include laptop {
+      transform: translate(0, 25px);
+    }
+
+    @include desktop {
+      transform: translate(0, 40px);
+    }
+  }
+
+  & .hamburger-top {
+    transform: rotate(225deg) translate(-6px);
+    margin: 0;
+
+    @include tablet {
+      transform: rotate(225deg) translate(-7px);
+    }
+
+    @include laptop {
+      transform: rotate(225deg) translate(-9px);
+    }
+
+    @include desktop {
+      transform: rotate(225deg) translate(-12px);
+    }
+  }
+
+  & .hamburger-bottom {
+    transform: rotate(-225deg) translate(-6px);
+    margin: 0;
+
+    @include tablet {
+      transform: rotate(-225deg) translate(-7px);
+    }
+
+    @include laptop {
+      transform: rotate(-225deg) translate(-9px);
+    }
+
+    @include desktop {
+      transform: rotate(-225deg) translate(-12px);
+    }
+  }
+}

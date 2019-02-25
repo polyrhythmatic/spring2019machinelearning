@@ -11,8 +11,21 @@
   position: absolute;
   top: 0;
   left: 0;
-  width: 56px;
   margin: 22px 0 0 25px;
+  border: none;
+  cursor: pointer;
+
+  @include tablet {
+    margin: 30px 0 0 33px;
+  }
+
+  @include laptop {
+    margin: 40px 0 0 43px;
+  }
+
+  @include desktop {
+    margin: 55px 0 0 60px;
+  }
 }
 
 .menu-wrapper {
@@ -24,15 +37,29 @@
   height: 100vh;
   max-width: 0px;
   overflow: hidden;
-  transition: max-width 0.2s ease-in-out;
+  transition: max-width .5s ease-in-out;
 
   & a {
     border-bottom: none;
   }
+
+  & ul {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
 }
 
 .menu__open {
-  max-width: 1000px;
+  max-width: 600px;
+
+  @include greater_than_tablet {
+    max-width: 1200px;
+  }
+
+  @include desktop {
+    max-width: 2000px;
+  }
 }
 
 .header-footer {

@@ -19,16 +19,16 @@ $fourk-width: 1920px;
 }
 
 @mixin desktop {
-  @media (min-width: #{$desktop-width}) and (max-width: #{$fourk-width - 1px}) {
+  @media (min-width: #{$desktop-width}) {
     @content;
   }
 }
 
-@mixin fourk {
-  @media (min-width: #{$fourk-width}) {
-    @content;
-  }
-}
+// @mixin fourk {
+//   @media (min-width: #{$fourk-width}) {
+//     @content;
+//   }
+// }
 
 @mixin greater_than_tablet {
   @media (min-width: #{$tablet-width}) {
@@ -47,9 +47,9 @@ body {
   margin: 0 0;
   font: $freesans;
 
-  @include fourk {
-    margin: 0 auto;
-  }
+  // @include fourk {
+  //   margin: 0 auto;
+  // }
 }
 
 a {
@@ -57,7 +57,7 @@ a {
 }
 
 *::selection {
-  background: blue;
+  background: white;
 }
 
 .title-text {
@@ -66,10 +66,70 @@ a {
   margin: 85px 0 0;
   width: 100vw;
 
+  @include greater_than_tablet {
+    font-size: 86px;
+    line-height: 115px;
+    text-align: right;
+  }
+
+  @include desktop {
+    font-size: 120px;
+    line-height: 165px;
+  }
+
   & li {
     width: 280px;
     margin: 0 auto;
+
+    @include tablet {
+      width: 630px;
+    }
+
+    @include laptop {
+      width: 800px;
+    }
+
+    @include desktop {
+      width: 1200px;
+    }
   }
+}
+
+.block {
+  position: absolute;
+  width: 75vw;
+  height: calc(100vh - 122px);
+  bottom: 0;
+  left: 0;
+  background-color: #7EE8FB;
+
+  @include greater_than_tablet {
+    height: calc(100vh - 200px);
+  }
+
+  @include desktop {
+    height: calc(100vh - 225px);
+  }
+}
+
+.home-block {
+  z-index: -1;
+  position: fixed;
+  background-color: #FBEF7E;
+}
+
+.syllabus-block {
+  z-index: -1;
+  position: fixed;
+  background-color: #FB7E7E;
+}
+
+.content-wrapper {
+  background-color: #fb7e7d;
+  box-sizing: border-box;
+  width: 75vw;
+  margin: -10px 0;
+  padding: 20px 20px;
 }
 
 //the code highlighter
