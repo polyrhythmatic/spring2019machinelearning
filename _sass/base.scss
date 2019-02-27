@@ -80,6 +80,7 @@ a {
   & li {
     width: 280px;
     margin: 0 auto;
+    display: block;
 
     @include tablet {
       width: 630px;
