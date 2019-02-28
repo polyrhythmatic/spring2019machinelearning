@@ -19,6 +19,7 @@ Class notes:
   * [Mobilenets](https://ai.googleblog.com/2017/06/mobilenets-open-source-models-for.html)
 * [Getting started with ml5](https://ml5js.org/docs/getting-started)
 * For now we can use the [p5.js web editor](https://editor.p5js.org) - make an account to save your projects
+* [Github](https://github.com/channelstudio/spring2019machinelearning-code/tree/master/wk02_image_classification) with code from the class
 
 Additional material:
 

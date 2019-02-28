@@ -4,6 +4,8 @@ permalink: /resources
 title: RESOURCES
 ---
 
+[Github repository](https://github.com/channelstudio/spring2019machinelearning-code/) for this class
+
 ## Web Development
 
 * [My other class on web development](http://courses.channel.studio/fall2018webdesignbasics)
