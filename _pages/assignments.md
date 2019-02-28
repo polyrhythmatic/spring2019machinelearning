@@ -9,7 +9,8 @@ title: ASSIGNMENTS
 ### Read
 * [The Myth of AI](https://www.edge.org/conversation/the-myth-of-ai) by Jaron Lanier (just read article not comments or video)
 * [Using Artificial Intelligence to Augment Human Intelligence](https://distill.pub/2017/aia/)
-* [Creative AI](https://medium.com/@creativeai/creativeai-9d4b2346faf3)
+* [Why Captchas Have Gotten So Difficult](https://www.theverge.com/2019/2/1/18205610/google-captcha-ai-robot-human-difficult-artificial-intelligence)
+* [Creative AI](https://medium.com/@creativeai/creativeai-9d4b2346faf3) - optional reading, will discuss in class
 
 For each reading, please write two questions that are not "yes or no". I've shared a document with you to write them in. 
 
