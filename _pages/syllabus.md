@@ -28,18 +28,19 @@ This course will not cover, nor assumes knowledge of, the technical or mathemati
 
 * 2/18 - Intro to the class, what is machine learning, intro to p5
 * 2/25 - deep learning, p5 in depth, up and running with ml5js, image classification
-* 3/4 - Transfer learning / feature extraction / KNN classification
-* 3/11 - Posenet
-* 3/18 - Pix2pix, Style Transfer, introducing the midterm project
+* 3/4 - Canceled due to snow
+* 3/11 - Transfer learning / feature extraction / KNN classification
+* 3/18 - Posenet and bodypix, introducing the midterm project
 * 3/25 - (no class, spring break)
 * 4/1 - Special topic / guest speaker
 * 4/8 - (midterm presentation and crit)
-* 4/15 - Sketch RNN
-* 4/22 - LSTM 
-* 4/29 - TSNE with images, introducing the final project
-* 5/6 - TSNE with audio
+* 4/15 - Pix2pix, Style Transfer
+* 4/22 - Sketch RNN, Making music with RNNs
+* 4/29 - Using CharRNN to generate text, introducing the final project
+* 5/6 - Dimensionality reduction with TSNE
 * 5/13 - Work session
 * 5/20 - (final presentation and crit)
+* 5/27 - Makeup class
 
 # Office Hours  
 

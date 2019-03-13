@@ -4,6 +4,48 @@ permalink: /classes
 title: CLASSES
 ---
 
+## 3/12 - Class 3
+
+Class notes:
+
+Transfer learning is the improvement of learning in a new task through the transfer of knowledge from a related task that has already been learned. ([Source](https://machinelearningmastery.com/transfer-learning-for-deep-learning/))
+
+What is feature extraction?
+  * In a multi layer neural network, the final layer is known as the softmax
+  * It takes a list of numbers from the network and "squashes" them into probabilities
+  * The layer before this final layer is known as the logits, or feature vector
+  * This is the "fingerprint" of the image, and can be used to compare images
+  * [Good explanation here](https://observablehq.com/@nsthorat/how-to-build-a-teachable-machine-with-tensorflow-js)
+
+Retraining a network
+  * If we swap out the final layer, we can retrain it to classify what we want
+
+Linear regression
+  * The simplest forms of machine learning
+  * Also known as "line fitting"
+  * Can be linear regression or polynomial
+  * Continuous output, as opposed to classification which is discrete
+
+KNN
+
+  * "Tell me who your neighbor is, and I'll tell you who you are"
+  * "K-Nearest Neighbor" is a machine learning algorithm used for both classification and regression. It is a "lazy learning" algorithm due to the fact that there is really is no learning at all. New data points are classified / valued according to a distance comparison with every data point in a training set. (source)[https://github.com/nature-of-code/NOC-S17-2-Intelligence-Learning/blob/master/week3-classification-regression/README.md]
+  * [Nice interactive demo here](https://observablehq.com/@nsthorat/how-to-build-a-teachable-machine-with-tensorflow-js) a bit further down the page
+
+Examples using transfer learning:
+
+* [Teachable Machine](https://teachablemachine.withgoogle.com/)
+* [Pacman](https://storage.googleapis.com/tfjs-examples/webcam-transfer-learning/dist/index.html) [code here](https://github.com/tensorflow/tfjs-examples/tree/master/)
+* [Objectifier](https://experiments.withgoogle.com/objectifier-spatial-programming)
+* [Getting Alexa to Respond to Sign Language Using Your Webcam and Tensorflowjs](https://medium.com/tensorflow/getting-alexa-to-respond-to-sign-language-using-your-webcam-and-tensorflow-js-735ccc1e6d3f)
+
+Additional material:
+
+* [Nature of Code Part 2 "Intelligence and Learning" - week3-classification-regression ](https://github.com/nature-of-code/NOC-S17-2-Intelligence-Learning/tree/master/week3-classification-regression) - tons of good resources here
+* [ml4a - Classification with KNN](https://github.com/ml4a/ml4a-guides/blob/master/notebooks/classification_kNN.ipynb)
+* [ml4a - Linear Regression](https://github.com/ml4a/ml4a-guides/blob/master/notebooks/linear_regression.ipynb)
+* [ml4a - Transfer Learning](https://github.com/ml4a/ml4a-guides/blob/master/notebooks/transfer-learning.ipynb)
+
 ## 2/25 - Class 2
 
 Class notes:

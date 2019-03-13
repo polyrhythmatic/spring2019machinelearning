@@ -4,6 +4,27 @@ permalink: /assignments
 title: ASSIGNMENTS
 ---
 
+## Class 3 - due 3/18
+
+### Read
+
+* [More States Opting To 'Robo-Grade' Student Essays By Computer](https://www.npr.org/2018/06/30/624373367/more-states-opting-to-robo-grade-student-essays-by-computer)
+* [Physiognomy’s New Clothes](https://medium.com/@blaisea/physiognomys-new-clothes-f2d4b59fdd6a)
+* [A New Approach to Understanding How Machines Think](https://www.quantamagazine.org/been-kim-is-building-a-translator-for-artificial-intelligence-20190110/)
+
+For each reading, please write two questions that are not "yes or no". I've shared a document with you to write them in. 
+
+### Watch
+
+* [ml5.js: Transfer Learning with Feature Extractor](https://youtu.be/kRpZ5OqUY6Y)
+* [ml5.js: Feature Extractor Regression](https://youtu.be/aKgq0m1YjvQ)
+* [ml5.js: KNN Classification Part 1](https://youtu.be/KTNqXwkLuM4), [ml5.js: KNN Classification Part 2](https://youtu.be/Mwo5_bUVhlA), [ml5.js: KNN Classification Part 3](https://youtu.be/JWsKay58Z2g)
+* Optional if you need it - [Videos 3.1 - 4.2 on Learning p5](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+
+### Code
+  * Optional exercise just like last week - create something using what we've learned in class
+
+
 ## Class 2 - due 3/4
 
 ### Read
@@ -21,7 +42,7 @@ For each reading, please write two questions that are not "yes or no". I've shar
 * [ml5.js: Webcam Image Classification](https://youtu.be/D9BoBSkLvFo)
 * [But what *is* a Neural Network? | Deep learning, chapter 1
 ](https://youtu.be/aircAruvnKk) by 3Blue1Brown
-* Optional if you need it - [Videos 2.1 - 2.6 on Learning P5](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+* Optional if you need it - [Videos 2.1 - 2.6 on Learning p5](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
 
 ### Code
   * Optional exercise - create something using what we've learned in class
@@ -40,4 +61,4 @@ of Artificial Superintelligence](https://medium.com/after-us/towards-a-poetics-o
 
 ### Watch
 
-* Optional [Videos 1.1 - 1.6 on Learning P5](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
+* Optional [Videos 1.1 - 1.6 on Learning p5](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA)
