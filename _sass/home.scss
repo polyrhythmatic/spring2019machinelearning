@@ -1,0 +1,17 @@
+.home-block {
+
+}
+
+#container {
+  position: absolute;
+  top: 50%;
+  left: 35%;
+  transform: translate(-50%, -50%);
+  width: 1280px;
+  height: 960px;
+
+  & canvas {
+    width: 100% !important;
+    height: 100% !important;
+  }
+}
