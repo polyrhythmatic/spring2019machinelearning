@@ -4,6 +4,47 @@ permalink: /assignments
 title: ASSIGNMENTS
 ---
 
+## Class 4 - due 4/1
+
+### Read
+* [Anatomy of an AI System](https://anatomyof.ai/)
+
+### Watch
+* [How an Algorithmic World Can Be Undermined](https://youtu.be/NTl0yyPqf3E)
+* [Data Genesis: AI's Primordial Soup](https://vimeo.com/287094149)
+
+**For both the reading and videos please write two questions that are not "yes or no". I've shared a document with you to write them in.**
+
+### The Midterm - due 4/8
+
+What can it be?
+
+* Critical - a protest piece, something intended to raise awareness, critical of tech etc
+* A new interface for creativity - design tool 
+* Something that sparks joy - a game, something goofy and fun
+* Something that speaks to your personal practice
+
+
+Using what we have covered so far (or more, if you're feeling ambitious), create a web application, physical device, or piece of writing. Please feel free to work in groups of no more than four people if you are making a web app or product concept. Essays cannot be undertaken as groups. This project may be combined with other classes but you must first discuss with me. 
+
+Acceptable outputs from this project:
+* A functioning web application
+* Product concept (sketches and prototype)
+* Essay (under 10 pages) - be sure to speak with me before selecting this option
+
+Presenting the project: 
+
+If there are no group projects then we will have 8 minutes per person to present, "pecha kucha" style. No matter which of the three project types you select, I will be expecting a fairly concrete and succinct presentation of about 5 minutes.
+
+Metrics for grading:
+* 25% - Originality of concept - Does the project demonstrate an original and novel concept?
+* 25% - Fit and finish - Is the project "well put together"?
+* 25% - Overall design - Do the various design elements come together to tell a coherent story?
+* 25% - Theme - Does the project follow the prompt and have a consistent user experience?
+
+**By Friday 3/29, please send me a one paragraph proposal for your midterm with any necessary sketches.**
+
+
 ## Class 3 - due 3/18
 
 ### Read

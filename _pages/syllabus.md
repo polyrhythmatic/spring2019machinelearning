@@ -23,8 +23,12 @@ During the course, students will learn how to build interactive systems using a 
 
 This course will not cover, nor assumes knowledge of, the technical or mathematical details of machine learning. Instead, it will focus on how to integrate available tools into existing interactive applications. While no specific knowledge of ML or programming experience is required, you should consider yourself "good with computers" and any familiarity with HTML/CSS/Javascript will be helpful.  
 
-# Tentative Course Schedule  
+This course borrows from the following amazing syllabi
+* [Yining Shi - Machine Learning for the Web](https://github.com/yining1023/machine-learning-for-the-web)
+* [Dan Shiffman - Nature of Code Part 2: Intelligence and Learning](https://github.com/nature-of-code/NOC-S17-2-Intelligence-Learning)
+* [Gene Kogan - The Neural Aesthetic / ml4a](https://ml4a.github.io/classes/itp-F18/)
 
+# Tentative Course Schedule  
 
 * 2/18 - Intro to the class, what is machine learning, intro to p5
 * 2/25 - deep learning, p5 in depth, up and running with ml5js, image classification

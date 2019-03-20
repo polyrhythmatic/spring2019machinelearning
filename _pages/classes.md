@@ -4,7 +4,28 @@ permalink: /classes
 title: CLASSES
 ---
 
-## 3/12 - Class 3
+## 3/18 - Class 4
+
+Class notes:
+
+Pose Estimation is a general problem in Computer Vision where we detect the position and orientation of an object. This usually means detecting keypoint locations that describe the object. ([Source](https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/
+))
+
+Some examples:
+* [DensePose](http://densepose.org/)
+* [Body Synth](https://experiments.withgoogle.com/body-synth)
+* [Move Mirror](https://experiments.withgoogle.com/collection/ai/move-mirror/view)
+
+Pose estimation can be done for single or multiple people.
+
+We can track face position, body position, and even use KNN classification to classify body positions - [code](https://github.com/channelstudio/spring2019machinelearning-code/tree/master/wk04_posenet_bodypix).
+More reading:
+
+* [Real-time Human Pose Estimation in the Browser with TensorFlow.js](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
+* [Integrating Ml5.js PoseNet model with Three.js](https://medium.com/@miss.akaplan/integrating-ml5-js-posenet-model-with-three-js-b19710e2862b) via Advait
+* [Introducing BodyPix: Real-time Person Segmentation in the Browser with TensorFlow.js](https://medium.com/tensorflow/introducing-bodypix-real-time-person-segmentation-in-the-browser-with-tensorflow-js-f1948126c2a0)
+
+## 3/11 - Class 3
 
 Class notes:
 
