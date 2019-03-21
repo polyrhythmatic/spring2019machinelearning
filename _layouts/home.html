@@ -28,7 +28,7 @@
       let strokePath;
 
       function setup() {
-        let canvas = createCanvas(1280, 960);
+        let canvas = createCanvas(640, 480);
         canvas.parent("container");
         model = ml5.SketchRNN('pineapple', modelReady);
       }
@@ -65,6 +65,7 @@
       }
 
       function modelReady() {
+        console.log("model is ready!")
         startDrawing();
       }
     </script>

@@ -99,16 +99,20 @@ a {
 .block {
   position: absolute;
   width: 75vw;
+  height: -webkit-calc(100vh - 122px);
   height: calc(100vh - 122px);
-  bottom: 0;
+  // bottom: 0;
+  top: 122px;
   left: 0;
   background-color: #7EE8FB;
 
   @include greater_than_tablet {
+    top: 200px;
     height: calc(100vh - 200px);
   }
 
   @include desktop {
+    top: 225px;
     height: calc(100vh - 225px);
   }
 }
