@@ -4,6 +4,13 @@ permalink: /assignments
 title: ASSIGNMENTS
 ---
 
+## Class 5 - due 4/8
+
+### The Midterm
+
+We have 14 groups presenting on Monday, so each group/individual will be limited to 10 minutes total. This means 5 minutes of presentation and 5 minutes of comments/critique. Please see below for more details on what is expected.
+
+
 ## Class 4 - due 4/1
 
 ### Read

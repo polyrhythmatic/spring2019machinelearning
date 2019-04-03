@@ -4,6 +4,10 @@ permalink: /classes
 title: CLASSES
 ---
 
+## 4/1 - Class 5
+
+A guest presentation from [Rebecca Ricks](https://beccaricks.space/) - a technologist, writer, and artist thinking about privacy and computational systems. Rebecca was a Ford-Mozilla open web fellow at Human Rights Watch, an organization that investigates and reports on abuses happening in all corners of the world and is now a researcher at the Mozilla Foundation. Her work interrogates the ways social platforms collect and monetize data about their users. Rebecca received her masters at NYU's ITP program and holds a B.A. in Middle East Studies/Arabic.
+
 ## 3/18 - Class 4
 
 Class notes:
