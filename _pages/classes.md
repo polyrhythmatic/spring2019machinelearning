@@ -32,7 +32,6 @@ More on t-SNE:
 * [Rasterfairy - turn your cloud into a grid](https://github.com/Quasimondo/RasterFairy)
 * [Documentation for scikit-learn t-SNE](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)
 
-
 ## 4/8 - Class 6
 
 Midterm presentations
