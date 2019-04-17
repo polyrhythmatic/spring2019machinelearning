@@ -4,9 +4,42 @@ permalink: /classes
 title: CLASSES
 ---
 
+## 4/8 - Class 7
+
+Class notes:
+
+["t-SNE is a technique for dimensionality reduction that is particularly well suited for the visualization of high-dimensional datasets."](https://lvdmaaten.github.io/tsne/)
+
+t-SNE allows for maintaining the neighbor relationships between points, hence the full name "T-distributed Stochastic Neighbor Embedding". It can reduce large dimension datasets to any smaller size, but primarily is used for reductions to 2D and 3D for visualization.
+
+Examples of t-SNE in action:
+* [MNIST 2D](https://lvdmaaten.github.io/tsne/examples/mnist_tsne.jpg)
+* [MNIST 3D](https://lvdmaaten.github.io/tsne/examples/mnist_tsne.mov)
+* [Imagenet](https://cs.stanford.edu/people/karpathy/cnnembed/)
+* [The Curator Table](https://artsexperiments.withgoogle.com/curatortable/)
+* [IDEO Font Map](http://fontmap.ideo.com/)
+* [Embedding Projector - many options](http://projector.tensorflow.org/)
+* [Infinite Drum Machine](https://experiments.withgoogle.com/ai/drum-machine/view/)
+* [Bird Sounds](https://experiments.withgoogle.com/ai/bird-sounds/view/)
+
+More on t-SNE:
+* [Distill.pub interactive guide to t-SNE](https://distill.pub/2016/misread-tsne/)
+* [t-SNE.js](https://github.com/scienceai/tsne-js)
+* [Kyle McDonald's Audio Notebooks](https://github.com/kylemcdonald/AudioNotebooks/blob/master/Samples%20to%20Fingerprints.ipynb) - great for feature extraction
+* [ml4a - Audio t-SNE](https://github.com/ml4a/ml4a-guides/blob/master/notebooks/audio-tsne.ipynb)
+* [ml4a - Wikipedia t-SNE](https://github.com/ml4a/ml4a-guides/blob/master/notebooks/wiki-tSNE.ipynb)
+* [ml4a - Image t-SNE](https://github.com/ml4a/ml4a-guides/blob/master/notebooks/image-tsne.ipynb)
+* [Rasterfairy - turn your cloud into a grid](https://github.com/Quasimondo/RasterFairy)
+* [Documentation for scikit-learn t-SNE](https://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html)
+
+
+## 4/8 - Class 6
+
+Midterm presentations
+
 ## 4/1 - Class 5
 
-A guest presentation from [Rebecca Ricks](https://beccaricks.space/) - a technologist, writer, and artist thinking about privacy and computational systems. Rebecca was a Ford-Mozilla open web fellow at Human Rights Watch, an organization that investigates and reports on abuses happening in all corners of the world and is now a researcher at the Mozilla Foundation. Her work interrogates the ways social platforms collect and monetize data about their users. Rebecca received her masters at NYU's ITP program and holds a B.A. in Middle East Studies/Arabic.
+A guest presentation from [Rebecca Ricks](https://beccaricks.space/) - a technologist, writer, an artist thinking about privacy and computational systems. Rebecca was a Ford-Mozilla open web fellow at Human Rights Watch, an organization that investigates and reports on abuses happening in all corners of the world and is now a researcher at the Mozilla Foundation. Her work interrogates the ways social platforms collect and monetize data about their users. Rebecca received her masters at NYU's ITP program and holds a B.A. in Middle East Studies/Arabic.
 
 ## 3/18 - Class 4
 

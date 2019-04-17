@@ -4,6 +4,23 @@ permalink: /assignments
 title: ASSIGNMENTS
 ---
 
+## Class 7
+
+### Read
+* [An Artwork Made by Artificial Intelligence Just Sold for $400,000. I Am Shocked, Confused, Appalled.](https://www.vulture.com/2018/10/an-artificial-intelligence-artwork-just-sold-for-usd400-000.html)
+* [How Three French Students Used Borrowed Code To Put The First AI Portrait In Christie's](https://www.theverge.com/2018/10/23/18013190/ai-art-portrait-auction-christies-belamy-obvious-robbie-barrat-gans)
+
+### Watch
+* [Ian Cheng Interview: A Portal to Infinity](https://youtu.be/TO6Luilc4Bo)
+* [Spectacle, Speculation, Spam](https://vimeo.com/194963450)
+
+**For both the reading and videos please write one question that are not "yes or no". I've shared a document with you to write them in.**
+
+
+## Class 6
+
+No homework
+
 ## Class 5 - due 4/8
 
 ### The Midterm
