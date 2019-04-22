@@ -38,13 +38,11 @@ This course borrows from the following amazing syllabi
 * 3/25 - (no class, spring break)
 * 4/1 - Special topic / guest speaker
 * 4/8 - (midterm presentation and crit)
-* 4/15 - Pix2pix, Style Transfer
-* 4/22 - Sketch RNN, Making music with RNNs
+* 4/15 - Dimensionality reduction with TSNE
+* 4/22 - Introduction to RNNs, Sketch RNN
 * 4/29 - Using CharRNN to generate text, introducing the final project
-* 5/6 - Dimensionality reduction with TSNE
-* 5/13 - Work session
-* 5/20 - (final presentation and crit)
-* 5/27 - Makeup class
+* 5/6 - Work session
+* 5/13 - (final presentation and crit)
 
 # Office Hours  
 
