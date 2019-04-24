@@ -4,7 +4,30 @@ permalink: /classes
 title: CLASSES
 ---
 
-## 4/8 - Class 7
+## 4/22 - Class 8
+
+Class notes:
+
+Recurrent Neural Networks - RNN
+
+### What is a RNN?
+
+Vanilla neural networks and convolutional neural networks (what we have studied so far) accept a fixed sized vector as input (such as an image) and produce fixed sized vector outputs (such as probabilities of different classes). Recurrent nets allow us to operate over sequences of vectors - sequences in the input, the output, or generally both. This makes them great for applications such as text translation, text generation, image captioning, and sentiment analysis. Andrej Karpathy's post [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) is a great resource to learn more about how they work.
+
+Examples of RNN in action:
+* [Magenta Sketch-RNN demo](https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html)
+* [Recurrent Neural Network Tutorial for Artists](http://blog.otoro.net/2017/01/01/recurrent-neural-network-artist/)
+
+More:
+* [Four Experiments in Handwriting with a Neural Network](https://distill.pub/2016/handwriting/)
+* [Teaching Machines to Draw](https://ai.googleblog.com/2017/04/teaching-machines-to-draw.html)
+* [Sketch-RNN: A Generative Model for Vector Drawings](https://github.com/tensorflow/magenta/blob/master/magenta/models/sketch_rnn/README.md)
+* [Google quick draw dataset](https://github.com/googlecreativelab/quickdraw-dataset)
+* [Memorization in RNNs](https://distill.pub/2019/memorization-in-rnns/)
+* [Recurrent Net Dreams Up Fake Chinese Characters in Vector Format with TensorFlow](http://blog.otoro.net/2015/12/28/recurrent-net-dreams-up-fake-chinese-characters-in-vector-format-with-tensorflow/)
+
+
+## 4/15 - Class 7
 
 Class notes:
 

@@ -4,7 +4,16 @@ permalink: /assignments
 title: ASSIGNMENTS
 ---
 
-## Class 7
+## Class 8 - due 4/27
+
+### Read
+* [Some thoughts on zero-day threats in AI, and OpenAI's GP2](https://www.fast.ai/2019/02/15/openai-gp2/)
+* [How to recognize fake AI-generated images](https://medium.com/@kcimc/how-to-recognize-fake-ai-generated-images-4d1f6f9a2842)
+* [I’m an AI researcher, and here’s what scares me about AI](https://medium.com/@racheltho/im-an-ai-researcher-and-here-is-what-scares-me-about-ai-909a406e4a71)
+
+**For the readings please write one question each that is not "yes or no". I've shared a document with you to write them in.**
+
+## Class 7 - due 4/22
 
 ### Read
 * [An Artwork Made by Artificial Intelligence Just Sold for $400,000. I Am Shocked, Confused, Appalled.](https://www.vulture.com/2018/10/an-artificial-intelligence-artwork-just-sold-for-usd400-000.html)
