@@ -7,9 +7,12 @@ title: ASSIGNMENTS
 ## Class 8 - due 4/27
 
 ### Read
-* [Some thoughts on zero-day threats in AI, and OpenAI's GP2](https://www.fast.ai/2019/02/15/openai-gp2/)
+* [OpenAI’s GPT-2: the model, the hype, and the controversy](https://towardsdatascience.com/openais-gpt-2-the-model-the-hype-and-the-controversy-1109f4bfd5e8)
 * [How to recognize fake AI-generated images](https://medium.com/@kcimc/how-to-recognize-fake-ai-generated-images-4d1f6f9a2842)
 * [I’m an AI researcher, and here’s what scares me about AI](https://medium.com/@racheltho/im-an-ai-researcher-and-here-is-what-scares-me-about-ai-909a406e4a71)
+
+Optional
+* [Some thoughts on zero-day threats in AI, and OpenAI's GP2](https://www.fast.ai/2019/02/15/openai-gp2/)
 
 **For the readings please write one question each that is not "yes or no". I've shared a document with you to write them in.**
 
