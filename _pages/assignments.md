@@ -4,6 +4,41 @@ permalink: /assignments
 title: ASSIGNMENTS
 ---
 
+## Class 10
+
+### Continuing The Final - due 5/13
+
+## Class 9
+
+### The Final - due 5/13
+
+What can it be?
+
+* Critical - a protest piece, something intended to raise awareness, critical of tech etc
+* A new interface for creativity - design tool 
+* Something that sparks joy - a game, something goofy and fun
+* Something that speaks to your personal practice
+
+The final can be a continuation of your midterm or alternatively, and entirely new project.
+
+Using what we have covered in the class (or more, if you're feeling ambitious), create a web application, physical device, or piece of writing. Please feel free to work in groups of no more than four people if you are making a web app or product concept. Essays cannot be undertaken as groups. This project may be combined with other classes but you must first discuss with me. Please also feel free to try using the Runway app, but understand that I will be limited in helping you since this program is new to me.
+
+Acceptable outputs from this project:
+* A functioning software application
+* Product concept (sketches and prototype)
+* Essay (under 10 pages) - be sure to speak with me before selecting this option
+
+Presenting the project: 
+
+If there are no group projects then we will have around 8 minutes per person to present, "pecha kucha" style. No matter which of the three project types you select, I will be expecting a fairly concrete and succinct presentation of about 5 minutes.
+
+Metrics for grading:
+* 20% - Originality of concept - Does the project demonstrate an original and novel concept?
+* 20% - Fit and finish - Is the project "well put together"?
+* 20% - Overall design - Do the various design elements come together to tell a coherent story?
+* 20% - Theme - Does the project follow the prompt and have a consistent user experience?
+* 20% - Documentation - refer to the documentation section in the syllabus. I am also asking for a one paragraph summary of the project
+
 ## Class 8 - due 4/27
 
 ### Read
